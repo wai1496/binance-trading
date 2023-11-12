@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/chrisleekr/binance-traiding-bot#readme",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "binance-api-node": "^0.10.47",
     "bunyan": "^1.8.15",
     "clean-webpack-plugin": "^3.0.0",
